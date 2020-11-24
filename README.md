@@ -8,16 +8,28 @@ GeoNames Gazetteer: http://www.geonames.org \
 World Cities Database Free Edition: https://www.geodatasource.com/ \
 HERE: https://www.here.com/
 
-## Total cities
+## Total countries
 
 ```
 100,000
+```
+
+## Total countries
+
+```
+247
 ```
 
 ## Formats Available
 
 ```
 JSON
+```
+
+## Demo
+
+```
+TODO
 ```
 
 ## Description
@@ -55,6 +67,7 @@ This eacy city .json file is an array of object of the following schema:
 
 > These cities can pretty easily be matched with countries by code using the following dataset:
 > https://www.iban.com/country-codes
+> Last Updated On : 24th November 2020
 
 ## Licence
 
