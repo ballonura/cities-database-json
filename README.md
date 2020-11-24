@@ -2,9 +2,9 @@
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
 
-These cities combined from, exclude duplicates:
-GeoNames Gazetteer: http://www.geonames.org
-World Cities Database Free Edition: https://www.geodatasource.com/
+These cities combined from, exclude duplicates:\
+GeoNames Gazetteer: http://www.geonames.org\
+World Cities Database Free Edition: https://www.geodatasource.com/\
 HERE: https://www.here.com/
 
 ## Total cities
