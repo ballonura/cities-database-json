@@ -76,7 +76,7 @@ This eacy city .json file is an array of object of the following schema:
 ```
 
 > These cities can pretty easily be matched with countries by code using the following dataset:
-> https://www.iban.com/country-codes
+> https://www.iban.com/country-codes \
 > Last Updated On : 24th November 2020
 
 ## Licence
