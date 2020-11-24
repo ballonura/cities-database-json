@@ -2,7 +2,7 @@
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/3.0/)
 
-#### These cities combined from, exclude duplicates:
+#### These cities combined, exclude duplicates, and verify from:
 
 GeoNames Gazetteer: http://www.geonames.org \
 World Cities Database Free Edition: https://www.geodatasource.com/ \
@@ -31,6 +31,14 @@ JSON
 ```
 TODO
 ```
+
+## Missing countries (Cant verify yet)
+
+- China
+- Singapore
+- Japan
+- South Korea
+- Pakistan
 
 ## Description
 
