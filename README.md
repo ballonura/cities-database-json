@@ -4,20 +4,20 @@
 
 #### These cities combined, exclude duplicates, and verify from:
 
-GeoNames Gazetteer: http://www.geonames.org \
+Free Gazetteer Data: http://www.geonames.org \
 World Cities Database Free Edition: https://www.geodatasource.com/ \
 HERE: https://www.here.com/
 
+## Total cities
+
+```
+TODO
+```
+
 ## Total countries
 
 ```
-100,000
-```
-
-## Total countries
-
-```
-247
+TODO
 ```
 
 ## Formats Available
@@ -32,7 +32,9 @@ JSON
 TODO
 ```
 
-## Missing countries (Cant verify yet)
+## Missing countries
+
+##### (Cant verify those locations data yet)
 
 - China
 - Singapore
